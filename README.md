@@ -1,8 +1,8 @@
-Latest pre-compiled binary of  OpenCV (3.3.1 dev) along with TBB (2018-Update 2) for the Raspberry Pi 
+Latest pre-compiled binary of  OpenCV (3.4.1 dev) along with TBB (2018-Update 3) for the Raspberry Pi 
 
 ## Head over to https://github.com/abhiTronix/TBB_Raspberry_pi for installing TBB first.
 
-# OpenCV[ TBB + VFVP3 + NEON]:
+# OpenCV[ TBB + VFVP3 + NEON] (Update -2018):
 Inspiration from amazing tutorial from Adrian (https://www.pyimagesearch.com/2017/10/09/optimizing-opencv-on-the-raspberry-pi/)
 
 Inside the tutorial, there is three possible ways of optimizing OpenCV:
@@ -19,7 +19,10 @@ Hence i created this pre-compiled Latest binary of OpenCV (3.3.1-dev ) along wit
 TBB is a library that helps you leverage multi-core processor performance without having to be a threading expert. It represents a higher-level, task-based parallelism that abstracts platform details and threading mechanism for performance and scalability.
 More info. at https://www.threadingbuildingblocks.org/
 
-# Installation Instructions
+# Proof:
+
+
+# Installation Instructions :
 ## (Tested on Raspberry pi 3 with Raspbarian stretch)
 Simple (but straight forward):
   ```
@@ -37,4 +40,4 @@ https://github.com/opencv for Latest OpenCV binaries.
 
 https://github.com/01org/tbb for TBB binaries.
 
-#love from india ;)
+Love from india ;)
