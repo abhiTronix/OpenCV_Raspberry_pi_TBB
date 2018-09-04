@@ -3,6 +3,12 @@ Latest pre-compiled binary of Pre-released OpenCV (4.0.0) & Stable OpenCV (3.4.2
 ## Head over to https://github.com/abhiTronix/TBB_Raspberry_pi for installing TBB first.
 
 # OpenCV [TBB + VFVP3 + NEON] (Update - August,2018):
+
+![Github](https://img.shields.io/badge/OpenCV-Stable%20(3.4.2)%20%7C%20Alpha%20(4.0.0)-orange.svg?longCache=true&style=for-the-badge)<t>
+![Github](https://img.shields.io/badge/TBB-2018%20Update%204-blue.svg?longCache=true&style=for-the-badge)<br>
+![Github](https://img.shields.io/badge/Platform-Raspberry%20Pi%202/3-blue.svg?longCache=true&style=for-the-badge)<br>
+![Github](https://img.shields.io/badge/Build-Passing-green.svg?longCache=true&style=for-the-badge)<br>
+
 Inspiration from amazing tutorial from Adrian (https://www.pyimagesearch.com/2017/10/09/optimizing-opencv-on-the-raspberry-pi/)
 
 Inside the tutorial, there is three possible ways of optimizing OpenCV:
