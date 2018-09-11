@@ -56,4 +56,4 @@ https://github.com/opencv for Latest OpenCV binaries.
 
 https://github.com/01org/tbb for TBB binaries.
 
-Love from India ;)
+Love from India ❤️
