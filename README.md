@@ -1,8 +1,8 @@
 Latest pre-compiled binary of Pre-released OpenCV (4.0.0) & Stable OpenCV (3.4.2) along with TBB (2018-Update 4) for the Raspberry Pi (*Tested on Rpi version 2/3 Model B/B+ with Stretch*)
 
-## Head over to https://github.com/abhiTronix/TBB_Raspberry_pi for installing TBB first.
+## ⭐️ Head over to https://github.com/abhiTronix/TBB_Raspberry_pi for installing TBB first.
 
-# OpenCV [TBB + VFVP3 + NEON] (Update - August,2018):
+# OpenCV [TBB + VFVP3 + NEON] (Update - September,2018): **Unleashed The Power of Multi-Threading in OpenCV 🔥🔥**
 
 ![Github](https://img.shields.io/badge/OpenCV-Stable%20(3.4.2)%20%7C%20Alpha%20(4.0.0)-orange.svg?longCache=true&style=for-the-badge)<t>
 ![Github](https://img.shields.io/badge/TBB-2018%20Update%204-yellow.svg?longCache=true&style=for-the-badge)<br>
@@ -29,7 +29,7 @@ More info. at https://www.threadingbuildingblocks.org/
 # Proof:
 
 ![](https://github.com/abhiTronix/OpenCV_Raspberry_pi_TBB/blob/master/Latest.gif)
-1. **OpenCV (version: 4.0.0 pre) successfully compiled with TBB (version: 2018 - Update 4)] on Python 2.7.13 on my Raspberry Pi 3B**.
+1. **OpenCV (version: 4.0.0 pre) successfully compiled with TBB (version: 2018 - Update 4)] on Python 2.7.13/3.6.3 on my Raspberry Pi 3B**.
 
 <br>
 <br>
