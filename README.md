@@ -10,7 +10,7 @@ Latest pre-compiled binary of Pre-released & Stable OpenCV (4.0.0) along with TB
 
 Inspiration from amazing tutorial from Adrian (https://www.pyimagesearch.com/2017/10/09/optimizing-opencv-on-the-raspberry-pi/)
 
-Inside the tutorial, there is three possible ways of optimizing OpenCV:
+Inside this tutorial, there are three possible ways of optimizing OpenCV:
 
 1. NEON 
 2. VFPV3 
@@ -21,31 +21,23 @@ Hence i created this Latest pre-compiled set of binary: Pre-released & Stable Op
 For Files Look Down below.
 
 
-# TBB ( Intel(R) Threading Building Blocks )
+## TBB ( Intel(R) Threading Building Blocks )
 TBB is a library that helps you leverage multi-core processor performance without having to be a threading expert. It represents a higher-level, task-based parallelism that abstracts platform details and threading mechanism for performance and scalability.
 More info. at https://www.threadingbuildingblocks.org/
 
 # Proof:
 
 ![](https://github.com/abhiTronix/OpenCV_Raspberry_pi_TBB/blob/master/Latest.gif)
-1. **OpenCV (version: 4.0.0 pre) successfully compiled with TBB (version: 2018 - Update 4)] on Python 2.7.13/3.6.3 on my Raspberry Pi 3B**.
-
-<br>
-<br>
-<br>
+**1. OpenCV (version: 4.0.0 pre) successfully compiled with TBB (version: 2018 - Update 4)] on Python 2.7.13/3.6.3 on my Raspberry Pi 3B**.
 
 ![](https://github.com/abhiTronix/OpenCV_Raspberry_pi_TBB/blob/master/Files.png)
-2. **OpenCV([TBB + VFVP3 + NEON] Supported) Files on my machine**.
-
-<br>
-<br>
-<br>
+**2. OpenCV([TBB + VFVP3 + NEON] Supported) Files on my machine**.
 
 ![](https://github.com/abhiTronix/OpenCV_Raspberry_pi_TBB/blob/master/Screenshot.png)
-3. **OpenCV (version: 4.0.0 pre) along with 'NEON' and 'VFVP3' Support also enabled**.
+**3. OpenCV (version: 4.0.0 pre) along with 'NEON' and 'VFVP3' Support also enabled**.
 
 # Installation Instructions :
-## (Tested on Raspberry pi 3 with Raspbian Stretch [Latest])
+### (Tested on Raspberry pi 3 with Raspbian Stretch [Latest])
 Simple (but straight forward):
   ```
 sudo dpkg -i <path to *deb file[e.g OpenCV_release_fp_tbb_armhf.deb]>
