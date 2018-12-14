@@ -34,7 +34,7 @@ More info. at https://www.threadingbuildingblocks.org/
 **2. OpenCV([TBB + VFVP3 + NEON] Supported) Files on my machine**.
 
 ![](https://github.com/abhiTronix/OpenCV_Raspberry_pi_TBB/blob/master/Screenshot.png)
-**3. OpenCV (version: 4.0.0 pre) along with 'NEON' and 'VFVP3' Support also enabled**.
+**3. OpenCV (version: 4.0.0 pre) along with 'NEON' and 'VFVP3' Support enabled**.
 
 # Installation Instructions :
 ### (Tested on Raspberry pi 3 with Raspbian Stretch [Latest])
@@ -45,7 +45,7 @@ sudo ldconfig
 
   ```
 # Files📂:
-Tryout **Demo OpenCV(No TBB Support) .deb file** is available here ![opencv_4.0.0-pre-demo_armhf.deb](https://github.com/abhiTronix/OpenCV_Raspberry_pi_TBB/blob/master/opencv_4.0.0-pre-demo_armhf.deb).<br>
+Tryout **Demo OpenCV(No TBB Support) .deb file** is available here ![opencv_4.0.0-pre-demo_armhf.deb](https://github.com/abhiTronix/OpenCV_Raspberry_pi_TBB/blob/master/opencv_4.0.0-pre-demo_armhf.deb).(![**Bug Solved**](https://github.com/abhiTronix/OpenCV_Raspberry_pi_TBB/issues/1#issue-391020295)) <br>
 
 **But if you want the latest OpenCV([TBB + VFVP3 + NEON] Fully Supported) precompiled .deb files with installation support associated, it is only provided through email (*abhi.una12@gmail.com*)**. Also consider supporting my countless hours of hardwork and helping me out by making small *Donation for my ongoing Independent A.I. Research in return. Thankyou*
 
