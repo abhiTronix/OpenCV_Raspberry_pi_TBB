@@ -45,7 +45,7 @@ sudo ldconfig
 
   ```
 # Files📂:
-Tryout **Demo OpenCV(No TBB Support) .deb file** is available here ![opencv_4.0.0-pre-demo_armhf.deb](https://github.com/abhiTronix/TBB_Raspberry_pi/blob/master/opencv_4.0.0-pre-demo_armhf.deb).<br>
+Tryout **Demo OpenCV(No TBB Support) .deb file** is available here ![opencv_4.0.0-pre-demo_armhf.deb](https://github.com/abhiTronix/OpenCV_Raspberry_pi_TBB/blob/master/opencv_4.0.0-pre-demo_armhf.deb).<br>
 
 **But if you want the latest OpenCV([TBB + VFVP3 + NEON] Fully Supported) precompiled .deb files with installation support associated, it is only provided through email (*abhi.una12@gmail.com*)**. Also consider supporting my countless hours of hardwork and helping me out by making small *Donation for my ongoing Independent A.I. Research in return. Thankyou*
 
