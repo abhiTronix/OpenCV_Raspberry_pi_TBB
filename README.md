@@ -6,7 +6,8 @@ Latest pre-compiled binary of Pre-released & Stable OpenCV (4.0.0) along with TB
 
 ![Github](https://img.shields.io/badge/OpenCV-Stable%20%20%7C%20Pre%20(4.0.0)-orange.svg?longCache=true&style=for-the-badge)   
 ![Github](https://img.shields.io/badge/TBB-2018%20Update%206-yellow.svg?longCache=true&style=for-the-badge)  
-![Github](https://img.shields.io/badge/Platform-Raspberry%20Pi%202/3-blue.svg?longCache=true&style=for-the-badge)  
+![Github](https://img.shields.io/badge/Platform-Raspberry%20Pi%202/3-blue.svg?longCache=true&style=for-the-badge)</t> [![GitHub](https://img.shields.io/badge/Raspberry%20Pi%20Zero/1-Not%20Tested-red.svg)](https://github.com/abhiTronix/raspberry-pi-cross-compilers) 
+
 
 Inspiration from amazing tutorial from Adrian (https://www.pyimagesearch.com/2017/10/09/optimizing-opencv-on-the-raspberry-pi/)
 
@@ -17,7 +18,7 @@ Inside this tutorial, there are three possible ways of optimizing OpenCV:
 3. Threading Building Blocks©️ (TBB)
 
 TBB is already successfully installed on my Rpi and made available precompiled at  https://github.com/abhiTronix/TBB_Raspberry_pi
-Hence i created this Latest pre-compiled set of binary: Pre-released & Stable OpenCV (4.0.0) compiled along with Latest (2018 Update 6) of TBB for the Raspberry Pi. It is made available in a ".deb" package and will save you countless hours not having to compile it yourself plus avoid worst looking compiling errors. This may or may not stay updated as I have to manually compile this version. I will try to make available most major versions. This is compiled for Raspberry Pi 3/2 Model B/B+ running Latest raspbian Stretch. This is enabled with TBB Support which helps multithreading in many OpenCV algorithms and significant **3x~5x** (https://www.theimpossiblecode.com/blog/build-faster-opencv-raspberry-pi3/) increase in performance along with 'NEON' and 'VFVP3' support and other major compilation flags without _any whatsoever change in your program_.
+Hence i created this Latest pre-compiled set of binary: Pre-released & Stable OpenCV (4.0.0) compiled along with Latest (2018 Update 6) of TBB for the Raspberry Pi. It is made available in a ".deb" package and will save you countless hours not having to compile it yourself plus avoid worst looking compiling errors. This may or may not stay updated as I have to manually compile this version. I will try to make available most major versions. This is compiled for Raspberry Pi 3/2 Model B/B+ running Latest raspbian Stretch. This is enabled with TBB Support which helps multithreading in many OpenCV algorithms and significant [**3x~5x**](https://www.theimpossiblecode.com/blog/build-faster-opencv-raspberry-pi3/) increase in performance along with 'NEON' and 'VFVP3' support and other major compilation flags without _any whatsoever change in your program_.
 For Files Look Down below.
 
 
