@@ -38,7 +38,7 @@ More info. at https://www.threadingbuildingblocks.org/
 ![](https://github.com/abhiTronix/OpenCV_Raspberry_pi_TBB/blob/master/Screenshot.png)
 **3. OpenCV (version: 4.0.0 pre) along with 'NEON' and 'VFVP3' Support enabled(Demo-file Output)**.
 
-# Installation Instructions :
+# Installation Instructions :(5~10sec)
 ### (Tested on Raspberry pi 3 with Raspbian Stretch [Latest])
 Simple (but straight forward):
   ```
