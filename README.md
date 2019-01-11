@@ -48,11 +48,11 @@ sudo ldconfig
 # Files📂:
 **Tryout Demo OpenCV(No TBB Supported) .deb file is available here:** [opencv_4.0.0-pre-demo_armhf.deb](https://github.com/abhiTronix/OpenCV_Raspberry_pi_TBB/blob/master/opencv_4.0.0-pre-demo_armhf.deb) (Refer [**Wiki**](https://github.com/abhiTronix/OpenCV_Raspberry_pi_TBB/wiki/Installing-dependency-for-demo-file.#installing-required-dependenciesimportant) & [**#1**](https://github.com/abhiTronix/OpenCV_Raspberry_pi_TBB/issues/1#issue-391020295) first)   
 
-***But if you want the latest & max optimized OpenCV([TBB + VFVP3 + NEON] Fully Supported) precompiled .deb files with installation support associated, it is only provided through email (*abhi.una12@gmail.com*)**. Also consider supporting my countless hours of hardwork and helping me out by making small *Donation for my ongoing Independent A.I. Research in return. Thankyou***
+***But if you want the latest & max optimized OpenCV([TBB + VFVP3 + NEON] Fully Supported) precompiled .deb files with installation support associated, it is only provided through email (abhi.una12@gmail.com).*** *Also consider supporting my countless hours of hardwork and helping me out by making small Donation for my ongoing Independent A.I. Research in return. Thankyou*
+
+***Don't forget to Share, drop a :star:***
 
 # Huge thanks to:
 https://www.pyimagesearch.com/2017/10/09/optimizing-opencv-on-the-raspberry-pi/ & https://www.theimpossiblecode.com/blog/build-faster-opencv-raspberry-pi3/ for guiding me through.  
 https://github.com/opencv for Latest OpenCV binaries.  
 https://github.com/01org/tbb for TBB binaries.   
-
-Love from India ❤️
